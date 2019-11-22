@@ -1,5 +1,5 @@
 # TrajectoryForecasting
-Source code of paper !["Back to square one: probabilistic trajectory forecasting without bells and whistles"](https://arxiv.org/abs/1812.02984)
+Source code of paper ["Back to square one: probabilistic trajectory forecasting without bells and whistles"](https://arxiv.org/abs/1812.02984)
 
 Run the script.sh to preprocess the Data.
 More information about training the model and testing it will be added soon.
