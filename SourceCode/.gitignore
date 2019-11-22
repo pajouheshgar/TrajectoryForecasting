@@ -6,7 +6,10 @@ __pycache__/
 # Files
 /Dataset/Mnist/cache/
 /Dataset/Mnist/sequences/
-
+Dataset/SDD/annotations/
+.idea/
+/Mnist_Saved_Models/
+/SDD_Saved_Models/
 
 # C extensions
 *.so
